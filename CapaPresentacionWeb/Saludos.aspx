@@ -55,9 +55,21 @@
                 </td>
             </tr>
             <tr>
-                <td class="auto-style3">&nbsp;</td>
+                <td class="auto-style3"></td>
                 <td class="auto-style3">
                     <asp:Label ID="lblMes" runat="server"></asp:Label>
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style3">Ingresa una fecha</td>
+                <td class="auto-style3">
+                    <asp:TextBox ID="txtFecha" runat="server"></asp:TextBox>
+                </td>
+            </tr>
+            <tr>
+                <td class="auto-style3">&nbsp;</td>
+                <td class="auto-style3">
+                    <asp:Label ID="lblFecha" runat="server"></asp:Label>
                 </td>
             </tr>
             <tr>
